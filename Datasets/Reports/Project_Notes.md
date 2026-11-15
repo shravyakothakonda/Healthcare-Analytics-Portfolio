@@ -14,3 +14,11 @@ Arthritis was the most common medical condition in the dataset with 9,308 patien
 
 Status
 In Progress
+Gender Analysis
+Female Patients: 27,726
+
+Male Patients: 27,774
+
+Key Insight:
+
+The patient population was evenly distributed between male and female patients. Male patients represented approximately 50.04% of the dataset, while female patients represented approximately 49.96%.
