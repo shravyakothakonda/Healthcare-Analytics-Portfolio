@@ -47,3 +47,18 @@ UnitedHealthcare: 11,125
 Key Insight:
 
 Cigna was the most frequently represented insurance provider with 11,249 patients. Insurance coverage was distributed relatively evenly across all providers.
+
+Billing Amount Analysis
+Average Billing Amount by Medical Condition:
+
+Obesity: $25,805.97
+Diabetes: $25,638.41
+Asthma: $25,635.25
+Arthritis: $25,497.33
+Hypertension: $25,497.10
+Cancer: $25,161.79
+Overall Average Billing Amount: $25,539.32
+
+Key Insight:
+
+Obesity patients had the highest average billing amount, while cancer patients had the lowest average billing amount. Billing amounts were relatively similar across all medical conditions.
