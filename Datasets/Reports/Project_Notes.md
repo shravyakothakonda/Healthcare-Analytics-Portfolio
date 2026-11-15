@@ -22,3 +22,13 @@ Male Patients: 27,774
 Key Insight:
 
 The patient population was evenly distributed between male and female patients. Male patients represented approximately 50.04% of the dataset, while female patients represented approximately 49.96%.
+Admission Type Analysis
+Elective Admissions: 18,655
+
+Urgent Admissions: 18,576
+
+Emergency Admissions: 18,269
+
+Key Insight:
+
+Elective admissions were the most common admission type in the dataset. Admission types were distributed relatively evenly across the patient population.
