@@ -32,3 +32,18 @@ Emergency Admissions: 18,269
 Key Insight:
 
 Elective admissions were the most common admission type in the dataset. Admission types were distributed relatively evenly across the patient population.
+
+Insurance Provider Analysis
+Aetna: 10,913
+
+Blue Cross: 11,059
+
+Cigna: 11,249
+
+Medicare: 11,154
+
+UnitedHealthcare: 11,125
+
+Key Insight:
+
+Cigna was the most frequently represented insurance provider with 11,249 patients. Insurance coverage was distributed relatively evenly across all providers.
